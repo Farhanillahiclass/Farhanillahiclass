@@ -1,132 +1,105 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:081226,45:123B5D,100:22D3EE&height=200&section=header&text=Muhammad%20Farhan&fontSize=46&fontColor=FFFFFF&fontAlignY=36&animation=fadeIn&desc=AI%20Student%20%7C%20Python%20%7C%20Machine%20Learning%20%7C%20AI%20Agents&descAlignY=60&descSize=16" alt="Muhammad Farhan — AI Student, Python and AI projects" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:08111F,45:123B5D,100:22D3EE&height=200&section=header&text=Muhammad%20Farhan&fontSize=46&fontColor=FFFFFF&fontAlignY=36&animation=fadeIn&desc=AI%20%7C%20Machine%20Learning%20%7C%20Python%20Development&descAlignY=60&descSize=16" alt="Muhammad Farhan — AI, Machine Learning, and Python Development" />
 
 <a href="https://www.linkedin.com/in/muhammadfarhanmrs/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://www.kaggle.com/muhammadfarhanmrs"><img src="https://img.shields.io/badge/Kaggle-Profile-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"></a>
-<a href="https://www.youtube.com/@FarhanMRSDeveloper"><img src="https://img.shields.io/badge/YouTube-Demos-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"></a>
-<a href="https://www.mrsplatform.live"><img src="https://img.shields.io/badge/MRS-Platform-111827?style=for-the-badge&logo=googlechrome&logoColor=white" alt="MRS Platform"></a>
+<a href="https://www.youtube.com/@FarhanMRSDeveloper"><img src="https://img.shields.io/badge/YouTube-Channel-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"></a>
+<a href="https://github.com/Farhanillahiclass"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
 
 </div>
 
 ## 👋 About Me
 
-I'm Muhammad Farhan, an AI student who learns by building practical software projects. I'm interested in machine learning, local-first AI assistants, automation, and Python development.
+I'm an AI student focused on building practical software and learning through hands-on projects. My interests include machine learning, AI assistants, automation, computer vision, and backend development.
 
-- 🤖 Exploring AI agents and machine-learning applications.
-- 🐍 Building projects with Python and related tools.
-- 🧠 Learning how to design useful, reliable AI-powered software.
-- 🛠️ Practising Git, GitHub, testing, and clear project documentation.
+- 🧠 Exploring machine learning and AI-powered applications.
+- 🐍 Building with Python and improving my software engineering fundamentals.
+- 🛠️ Learning backend development and practical Git/GitHub workflows.
+- 🚀 Interested in useful, reliable tools that solve real problems.
+- 📚 Continuously learning, testing, documenting, and improving my projects.
 
-> My focus is simple: keep learning, build useful projects, and improve them through testing and iteration.
+> **My approach:** Learn the fundamentals, build real projects, test carefully, and improve step by step.
 
-## 🚀 Featured Projects
+## 🧭 Current Focus
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🤖 [GYRUS — Local-First AI Agent](https://github.com/Farhanillahiclass/gyrus-ai-agent)
-
-A Python-based desktop assistant designed for voice and text interaction, local-first AI, desktop workflows, research, productivity, and reminders.
-
-**Highlights**
-- Local LLM option and intent classification
-- Voice/text commands and dashboard
-- Productivity and automation tools
-
-[📂 Repository](https://github.com/Farhanillahiclass/gyrus-ai-agent) · [▶️ Demo video](https://youtu.be/VoCrIiGrgeU)
-
-</td>
-<td width="50%" valign="top">
-
-### 🌌 [ILLI OS — Neural HUD Assistant](https://github.com/Farhanillahiclass/illi-ai-assistant)
-
-A Windows-focused Python assistant with a futuristic desktop interface, voice interaction, and system automation features.
-
-**Highlights**
-- Tkinter-based interface
-- Voice command workflows
-- Local desktop utilities
-
-[📂 Repository](https://github.com/Farhanillahiclass/illi-ai-assistant) · [▶️ Demo video](https://youtu.be/vnCPb6D8FA0)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🛡️ [Phishing URL Detector](https://github.com/Farhanillahiclass/phishing-url-detector)
-
-A machine-learning project that classifies URLs as legitimate or potentially phishing using URL-text features.
-
-**Reported evaluation**
-- F1-score: **0.878**
-- ROC-AUC: **0.945**
-- Automated tests and a Streamlit interface
-
-[📂 Repository](https://github.com/Farhanillahiclass/phishing-url-detector)
-
-</td>
-<td width="50%" valign="top">
-
-### 📋 TaskFlow CLI
-
-A command-line task-management project from my machine-learning capstone work.
-
-The repository link is not listed here until its exact public URL is confirmed.
-
-</td>
-</tr>
-</table>
-
-## 🧰 Skills & Current Learning
-
-<p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python">
-<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white" alt="scikit-learn">
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white" alt="Streamlit">
-<img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white" alt="FastAPI">
-<img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white" alt="Django">
-<img src="https://img.shields.io/badge/Git%20%26%20GitHub-F05032?style=flat&logo=git&logoColor=white" alt="Git and GitHub">
-<img src="https://img.shields.io/badge/AI%20Agents-334155?style=flat" alt="AI agents">
-<img src="https://img.shields.io/badge/Machine%20Learning-64748B?style=flat" alt="Machine learning">
-</p>
-
-*These represent my current project experience and learning areas, not a claim of expert-level proficiency in every tool.*
+- Machine Learning and model evaluation
+- Python application development
+- AI agents and desktop assistants
+- Automation workflows
+- Backend development with Django and APIs
 
 ## 🧊 3D GitHub Contribution Graph
 
 <img src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D GitHub contribution graph" />
 
-<sub>This graph is generated by the GitHub Actions workflow in this repository. If it is not visible yet, check the repository's Actions tab for the workflow run.</sub>
+<sub>This graphic is generated by the repository's GitHub Actions workflow. If it is not visible yet, open the Actions tab and run “Generate 3D Contribution Graph.”</sub>
 
-## 📊 GitHub Stats
+## 🚀 Featured Projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🤖 GYRUS — AI Agent</h3>
+      <p>A project focused on an AI-agent experience and desktop automation. Visit the repository for the implementation, setup, and supported features.</p>
+      <a href="https://github.com/Farhanillahiclass/gyrus-ai-agent">📂 Repository</a> · <a href="https://youtu.be/VoCrIiGrgeU">▶️ Demo video</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🖥️ ILLI — AI Assistant</h3>
+      <p>A personal AI-assistant project. Explore the source code and README for its current features and instructions.</p>
+      <a href="https://github.com/Farhanillahiclass/illi-ai-assistant">📂 Repository</a> · <a href="https://youtu.be/vnCPb6D8FA0">▶️ Demo video</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🔐 Phishing URL Detector</h3>
+      <p>A machine-learning project for identifying potentially phishing URLs. The repository contains implementation and evaluation details.</p>
+      <a href="https://github.com/Farhanillahiclass/phishing-url-detector">📂 Repository</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>📘 Python Core & Advanced Handbook</h3>
+      <p>An open learning resource covering Python concepts, examples, and practice material.</p>
+      <a href="https://github.com/Farhanillahiclass/Python-Core-and-Advanced-Handbook">📂 Repository</a>
+    </td>
+  </tr>
+</table>
+
+## 🛠️ Technologies & Learning Areas
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/Machine%20Learning-6B7280?style=flat-square" alt="Machine Learning">
+  <img src="https://img.shields.io/badge/AI%20Applications-155E75?style=flat-square" alt="AI Applications">
+  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" alt="Django">
+  <img src="https://img.shields.io/badge/Git%20%26%20GitHub-F05032?style=flat-square&logo=git&logoColor=white" alt="Git and GitHub">
+  <img src="https://img.shields.io/badge/Automation-7C3AED?style=flat-square" alt="Automation">
+  <img src="https://img.shields.io/badge/Computer%20Vision-0F766E?style=flat-square" alt="Computer Vision">
+</p>
+
+<sub>These tags represent my learning and project areas, not a claim of expert-level proficiency in every technology.</sub>
+
+## 📈 GitHub Overview
 
 <div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Farhanillahiclass&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github" alt="GitHub statistics for Farhanillahiclass" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Farhanillahiclass&layout=compact&hide_border=true&theme=tokyonight" alt="Most-used languages" />
-
-<img src="https://streak-stats.demolab.com?user=Farhanillahiclass&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
-
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Farhanillahiclass&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github" alt="GitHub statistics" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Farhanillahiclass&layout=compact&hide_border=true&theme=tokyonight" alt="Most used programming languages" />
+  <br/>
+  <img src="https://streak-stats.demolab.com?user=Farhanillahiclass&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
 </div>
 
 ## 🎓 Learning & Experience
 
 - **Machine Learning:** completed a learning-focused internship programme with LearnDepth Academy.
-- **AI projects:** building and documenting machine-learning and AI-assistant projects.
-- **Backend development:** learning Python backend development and Django workflows.
-- **Software practice:** improving testing, repository structure, and project documentation.
+- **Python and problem-solving:** strengthening programming fundamentals through practice and projects.
+- **Backend development:** learning Django and practical software development workflows.
 
-## 🌐 Connect With Me
+## 🔗 Connect With Me
 
-- **GitHub:** [Farhanillahiclass](https://github.com/Farhanillahiclass)
-- **LinkedIn:** [Muhammad Farhan](https://www.linkedin.com/in/muhammadfarhanmrs/)
-- **Kaggle:** [muhammadfarhanmrs](https://www.kaggle.com/muhammadfarhanmrs)
-- **YouTube:** [FarhanMRSDeveloper](https://www.youtube.com/@FarhanMRSDeveloper)
-- **MRS Platform:** [mrsplatform.live](https://www.mrsplatform.live)
-- **MRS LinkedIn:** [MRS Official](https://www.linkedin.com/company/mrs-official/)
+- 💼 LinkedIn: [muhammadfarhanmrs](https://www.linkedin.com/in/muhammadfarhanmrs/)
+- 📊 Kaggle: [muhammadfarhanmrs](https://www.kaggle.com/muhammadfarhanmrs)
+- ▶️ YouTube: [FarhanMRSDeveloper](https://www.youtube.com/@FarhanMRSDeveloper)
+- 🌐 MRS Platform: [mrsplatform.live](https://www.mrsplatform.live)
+- 🏢 MRS on LinkedIn: [MRS Official](https://www.linkedin.com/company/mrs-official/)
 
 ---
 
@@ -134,6 +107,6 @@ The repository link is not listed here until its exact public URL is confirmed.
 
 *Thanks for visiting my profile — I'm learning, building, and improving one project at a time.*
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:22D3EE,55:123B5D,100:081226&height=100&section=footer" alt="Blue gradient footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:22D3EE,55:123B5D,100:08111F&height=100&section=footer" alt="Decorative blue footer" />
 
 </div>
