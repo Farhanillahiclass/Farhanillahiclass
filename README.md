@@ -1,68 +1,128 @@
 <div align="center">
 
-<!-- Animated header: subtle motion and depth-inspired blue gradient -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:080F1F,45:123B5D,100:22D3EE&height=190&section=header&text=Muhammad%20Farhan&fontSize=44&fontColor=FFFFFF&fontAlignY=36&animation=fadeIn&desc=AI%20Student%20%7C%20Python%20%26%20Backend%20Development&descAlignY=60&descSize=16" alt="Muhammad Farhan — AI Student and Python Developer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:081226,45:123B5D,100:22D3EE&height=200&section=header&text=Muhammad%20Farhan&fontSize=46&fontColor=FFFFFF&fontAlignY=36&animation=fadeIn&desc=AI%20Student%20%7C%20Python%20%7C%20Machine%20Learning%20%7C%20AI%20Agents&descAlignY=60&descSize=16" alt="Muhammad Farhan — AI Student, Python and AI projects" />
 
-<a href="https://www.linkedin.com/in/muhammadfarhanmrs/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="https://www.kaggle.com/muhammadfarhanmrs"><img src="https://img.shields.io/badge/Kaggle-Profile-20BEFF?style=flat&logo=kaggle&logoColor=white" alt="Kaggle"></a>
-<a href="https://www.youtube.com/@FarhanMRSDeveloper"><img src="https://img.shields.io/badge/YouTube-Channel-FF0000?style=flat&logo=youtube&logoColor=white" alt="YouTube"></a>
-<a href="https://www.mrsplatform.live"><img src="https://img.shields.io/badge/MRS-Platform-111827?style=flat&logo=googlechrome&logoColor=white" alt="MRS Platform"></a>
+<a href="https://www.linkedin.com/in/muhammadfarhanmrs/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://www.kaggle.com/muhammadfarhanmrs"><img src="https://img.shields.io/badge/Kaggle-Profile-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"></a>
+<a href="https://www.youtube.com/@FarhanMRSDeveloper"><img src="https://img.shields.io/badge/YouTube-Demos-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"></a>
+<a href="https://www.mrsplatform.live"><img src="https://img.shields.io/badge/MRS-Platform-111827?style=for-the-badge&logo=googlechrome&logoColor=white" alt="MRS Platform"></a>
 
 </div>
 
 ## 👋 About Me
 
-I'm Muhammad Farhan, an AI student building practical projects while developing my skills in Python, machine learning, backend development, and AI-powered applications.
+I'm Muhammad Farhan, an AI student who learns by building practical software projects. I'm interested in machine learning, local-first AI assistants, automation, and Python development.
 
-- 🌱 Learning by building and improving hands-on projects.
-- 🤖 Interested in machine learning, AI assistants, automation, and intelligent software.
-- 🧰 Practising Python, Git/GitHub, and backend development workflows.
-- 📘 Focused on clear documentation and continuous improvement.
+- 🤖 Exploring AI agents and machine-learning applications.
+- 🐍 Building projects with Python and related tools.
+- 🧠 Learning how to design useful, reliable AI-powered software.
+- 🛠️ Practising Git, GitHub, testing, and clear project documentation.
 
-> I believe in learning by building, documenting the process, and improving one project at a time.
-
-## 🧊 3D Contribution Graph
-
-<!-- This image appears after you add the GitHub Actions workflow described below. -->
-<img src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D GitHub contribution graph" />
-
-<sub>If the graph does not appear yet, add the workflow from the setup instructions below and run it once.</sub>
-
-## 🛠️ Skills & Learning Areas
-
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/Machine%20Learning-6B7280?style=flat" alt="Machine Learning">
-  <img src="https://img.shields.io/badge/AI%20Applications-155E75?style=flat" alt="AI Applications">
-  <img src="https://img.shields.io/badge/Backend%20Development-334155?style=flat" alt="Backend Development">
-  <img src="https://img.shields.io/badge/Git%20%26%20GitHub-F05032?style=flat&logo=git&logoColor=white" alt="Git and GitHub">
-</p>
-
-*These badges describe my current learning and project interests, not a claim of expert-level proficiency.*
+> My focus is simple: keep learning, build useful projects, and improve them through testing and iteration.
 
 ## 🚀 Featured Projects
 
-### 1. [Phishing URL Detector](https://github.com/Farhanillahiclass/phishing-url-detector)
-A machine-learning project focused on detecting potentially phishing URLs. See the repository for implementation details, evaluation, and usage instructions.
+<table>
+<tr>
+<td width="50%" valign="top">
 
-### 2. [DSA Python Journey](https://github.com/Farhanillahiclass/dsa-python-journey)
-A learning repository documenting my Python data structures and algorithms practice.
+### 🤖 [GYRUS — Local-First AI Agent](https://github.com/Farhanillahiclass/gyrus-ai-agent)
 
-### 3. [ILLI Desktop / GYRUS](https://github.com/Farhanillahiclass/illi_desktop)
-A desktop AI-assistant project. Check the repository for the current project name, implemented features, setup steps, and status.
+A Python-based desktop assistant designed for voice and text interaction, local-first AI, desktop workflows, research, productivity, and reminders.
 
-### 4. TaskFlow CLI
-A command-line task management project mentioned in my machine-learning capstone work. **Repository link still needs confirmation**, so no direct link is included yet.
+**Highlights**
+- Local LLM option and intent classification
+- Voice/text commands and dashboard
+- Productivity and automation tools
 
-## 📚 Learning & Experience
+[📂 Repository](https://github.com/Farhanillahiclass/gyrus-ai-agent) · [▶️ Demo video](https://youtu.be/VoCrIiGrgeU)
+
+</td>
+<td width="50%" valign="top">
+
+### 🌌 [ILLI OS — Neural HUD Assistant](https://github.com/Farhanillahiclass/illi-ai-assistant)
+
+A Windows-focused Python assistant with a futuristic desktop interface, voice interaction, and system automation features.
+
+**Highlights**
+- Tkinter-based interface
+- Voice command workflows
+- Local desktop utilities
+
+[📂 Repository](https://github.com/Farhanillahiclass/illi-ai-assistant) · [▶️ Demo video](https://youtu.be/vnCPb6D8FA0)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🛡️ [Phishing URL Detector](https://github.com/Farhanillahiclass/phishing-url-detector)
+
+A machine-learning project that classifies URLs as legitimate or potentially phishing using URL-text features.
+
+**Reported evaluation**
+- F1-score: **0.878**
+- ROC-AUC: **0.945**
+- Automated tests and a Streamlit interface
+
+[📂 Repository](https://github.com/Farhanillahiclass/phishing-url-detector)
+
+</td>
+<td width="50%" valign="top">
+
+### 📋 TaskFlow CLI
+
+A command-line task-management project from my machine-learning capstone work.
+
+The repository link is not listed here until its exact public URL is confirmed.
+
+</td>
+</tr>
+</table>
+
+## 🧰 Skills & Current Learning
+
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python">
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white" alt="scikit-learn">
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white" alt="Streamlit">
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white" alt="FastAPI">
+<img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white" alt="Django">
+<img src="https://img.shields.io/badge/Git%20%26%20GitHub-F05032?style=flat&logo=git&logoColor=white" alt="Git and GitHub">
+<img src="https://img.shields.io/badge/AI%20Agents-334155?style=flat" alt="AI agents">
+<img src="https://img.shields.io/badge/Machine%20Learning-64748B?style=flat" alt="Machine learning">
+</p>
+
+*These represent my current project experience and learning areas, not a claim of expert-level proficiency in every tool.*
+
+## 🧊 3D GitHub Contribution Graph
+
+<img src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D GitHub contribution graph" />
+
+<sub>This graph is generated by the GitHub Actions workflow in this repository. If it is not visible yet, check the repository's Actions tab for the workflow run.</sub>
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Farhanillahiclass&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github" alt="GitHub statistics for Farhanillahiclass" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Farhanillahiclass&layout=compact&hide_border=true&theme=tokyonight" alt="Most-used languages" />
+
+<img src="https://streak-stats.demolab.com?user=Farhanillahiclass&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
+
+</div>
+
+## 🎓 Learning & Experience
 
 - **Machine Learning:** completed a learning-focused internship programme with LearnDepth Academy.
-- **Python & DSA:** practising programming fundamentals and data structures and algorithms.
-- **Backend Development:** learning Django and software development workflows.
+- **AI projects:** building and documenting machine-learning and AI-assistant projects.
+- **Backend development:** learning Python backend development and Django workflows.
+- **Software practice:** improving testing, repository structure, and project documentation.
 
-## 🌐 Find Me Online
+## 🌐 Connect With Me
 
-- **LinkedIn:** [muhammadfarhanmrs](https://www.linkedin.com/in/muhammadfarhanmrs/)
+- **GitHub:** [Farhanillahiclass](https://github.com/Farhanillahiclass)
+- **LinkedIn:** [Muhammad Farhan](https://www.linkedin.com/in/muhammadfarhanmrs/)
 - **Kaggle:** [muhammadfarhanmrs](https://www.kaggle.com/muhammadfarhanmrs)
 - **YouTube:** [FarhanMRSDeveloper](https://www.youtube.com/@FarhanMRSDeveloper)
 - **MRS Platform:** [mrsplatform.live](https://www.mrsplatform.live)
@@ -72,8 +132,8 @@ A command-line task management project mentioned in my machine-learning capstone
 
 <div align="center">
 
-*Thanks for visiting my profile. I'm learning, building, and improving one project at a time.*
+*Thanks for visiting my profile — I'm learning, building, and improving one project at a time.*
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:22D3EE,55:123B5D,100:080F1F&height=100&section=footer" alt="Decorative animated blue footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:22D3EE,55:123B5D,100:081226&height=100&section=footer" alt="Blue gradient footer" />
 
 </div>
