@@ -60,8 +60,8 @@ I'm an AI student focused on building practical software and learning through ha
     </td>
     <td width="50%" valign="top">
       <h3>🔁 n8n Workflow Collection</h3>
-      <p>A repository for exploring n8n automation workflows and integrations. Check the repository documentation and attribution for the source and usage terms of individual workflows.</p>
-      <a href="https://github.com/Farhanillahiclass/n8n-workflows">📂 Workflow repository</a>
+      <p>My n8n workflow automation project, with workflows and integrations. Visit the repository for its available files, documentation, and setup details.</p>
+      <a href="https://github.com/Farhanillahiclass/FlowForge-AI">📂 Workflow repository</a>
     </td>
   </tr>
   <tr>
