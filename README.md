@@ -1,123 +1,72 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=900&color=58A6FF&center=true&vCenter=true&width=880&lines=Muhammad+Farhan;AI+%26+Machine+Learning+Researcher;Junior+Researcher+at+MRS;Local-First+AI+%7C+Agents+%7C+Automation" alt="Typing Animation" />
+<!-- Optional animated header. If this external service is unavailable, the profile text below still works. -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1220,50:123B5D,100:20B8D6&height=170&section=header&text=Muhammad%20Farhan&fontSize=42&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn&desc=AI%20Student%20%7C%20Python%20%26%20Backend%20Development&descAlignY=62&descSize=15" alt="Muhammad Farhan — AI Student and Python Developer" />
 
-<br/><br/>
-
-<!-- Professional 3D Research Animation -->
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXJ0eGZ0d2Z0d2Z0d2Z0d2Z0d2Z0d2Z0d2Z0d2Z0d2Z0d2Z0d2Z0d2Z0/l0HlNQ03J5JxX6lva/giphy.gif" width="460" alt="3D Research Animation"/>
-
-<br/>
-
-### AI & Machine Learning Researcher  
-**Junior Researcher at MRS**
-
-I design and build local-first voice AI systems, intelligent agents, and applied machine learning solutions.
-
-<br/>
-
-[![YouTube](https://img.shields.io/badge/YouTube-FarhanMRSDeveloper-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@FarhanMRSDeveloper)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-muhammadfarhanmrs-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammadfarhanmrs)
-[![Email](https://img.shields.io/badge/Email-farhanmrsofficial%40gmail.com-58A6FF?style=for-the-badge&logo=gmail&logoColor=white)](mailto:farhanmrsofficial@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Farhanillahiclass-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Farhanillahiclass)
+<a href="https://www.linkedin.com/in/muhammadfarhanmrs/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://www.kaggle.com/muhammadfarhanmrs"><img src="https://img.shields.io/badge/Kaggle-Profile-20BEFF?style=flat&logo=kaggle&logoColor=white" alt="Kaggle"></a>
+<a href="https://www.youtube.com/@FarhanMRSDeveloper"><img src="https://img.shields.io/badge/YouTube-Channel-FF0000?style=flat&logo=youtube&logoColor=white" alt="YouTube"></a>
+<a href="https://www.mrsplatform.live"><img src="https://img.shields.io/badge/MRS-Platform-111827?style=flat&logo=googlechrome&logoColor=white" alt="MRS Platform"></a>
 
 </div>
 
----
+## 👋 About Me
 
-### Research Focus
+I'm Muhammad Farhan, an AI student building practical projects while developing my skills in Python, machine learning, backend development, and AI-powered applications.
 
-I work as a **Junior Researcher at MRS**, focusing on the practical application of artificial intelligence and machine learning.
+- 🌱 Currently learning and building through hands-on projects.
+- 🤖 Interested in machine learning, AI assistants, automation, and intelligent software.
+- 🧰 Practising Python, Git/GitHub, and backend development workflows.
+- 🤝 I value clear documentation, useful projects, and continuous improvement.
 
-**Primary areas of work:**
-- Local-first Voice AI Assistants
-- Intelligent Agents and Workflow Automation
-- Applied Machine Learning & Scientific Computing
-- Privacy-preserving AI architectures
+> My focus is on learning by building, documenting what I learn, and improving each project step by step.
 
-I prioritize clean implementation, rigorous experimentation, and public documentation of the research process.
+## 🛠️ Areas I Work On
 
----
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/Machine%20Learning-6B7280?style=flat" alt="Machine Learning">
+  <img src="https://img.shields.io/badge/AI%20Applications-155E75?style=flat" alt="AI Applications">
+  <img src="https://img.shields.io/badge/Backend%20Development-334155?style=flat" alt="Backend Development">
+  <img src="https://img.shields.io/badge/Git%20%26%20GitHub-F05032?style=flat&logo=git&logoColor=white" alt="Git and GitHub">
+</p>
 
-### Selected Projects
+*This list describes my current learning and project interests, not a claim of expert-level proficiency.*
 
-#### GYRUS — Local-First AI Agent
-Desktop AI assistant with voice interaction, trainable intent classification, research engine, OCR, system automation, and a full command dashboard.
+## 🚀 Featured Projects
 
-**Technologies:** Python · FastAPI · Local LLM · scikit-learn · Playwright  
-[Repository](https://github.com/Farhanillahiclass/gyrus-ai-agent) · [Demo](https://youtu.be/VoCrIiGrgeU)
+### 1. [Phishing URL Detector](https://github.com/Farhanillahiclass/phishing-url-detector)
+A machine-learning project focused on detecting potentially phishing URLs. Visit the repository for the implementation, dataset details, evaluation, and usage instructions.
 
-#### ILLI — Neural HUD Voice Assistant
-High-performance local voice AI with a cinematic Neural HUD interface, offline speech recognition, and deep system control. Designed for zero paid API dependency.
+### 2. [DSA Python Journey](https://github.com/Farhanillahiclass/dsa-python-journey)
+A learning repository documenting my Python data structures and algorithms practice, with a focus on maintaining a clear and repeatable progress workflow.
 
-**Technologies:** Python · Tkinter · speech_recognition · pyttsx3 · psutil  
-[Repository](https://github.com/Farhanillahiclass/illi-ai-assistant) · [Demo](https://youtu.be/vnCPb6D8FA0)
+### 3. [ILLI Desktop / GYRUS](https://github.com/Farhanillahiclass/illi_desktop)
+A desktop AI-assistant project. Check the repository README for the current project name, supported features, setup steps, and implementation status.
 
-#### AI Job Hunter Engine (n8n)
-Fully automated multi-source job discovery, intelligent matching, filtering, and cover letter generation system built with n8n and Claude.
+### 4. TaskFlow CLI
+A command-line task management project mentioned in my machine-learning capstone work. **Repository URL needs confirmation** before adding a direct link here.
 
-**Technologies:** n8n · Claude · Automation Workflows  
-[Demo on YouTube](https://www.youtube.com/@FarhanMRSDeveloper)
+## 📚 Learning & Experience
 
-#### Additional Research & Automation Work
-- Phishing URL Detector (Machine Learning)
-- Bacterial Growth & Diffusion Simulator (Scientific Computing)
-- Student Performance Prediction (EDA + Feature Engineering)
-- TaskFlow CLI (Clean Software Architecture)
-- AI Sales Outreach Agent (Autonomous Workflow)
-- Smart Vision Assistant Pro
-- AutoLoom AI (AI automation workflows library)
+- **Machine Learning:** completed a learning-focused internship programme with LearnDepth Academy; project details and completion evidence should be checked against the relevant records.
+- **Python & DSA:** practising programming fundamentals and data structures and algorithms.
+- **Backend Development:** learning Django and software development workflows.
 
----
+## 🌐 Find Me Online
 
-### Technical Stack
-
-**Core**  
-Python · FastAPI · Streamlit · Tkinter
-
-**AI / Machine Learning**  
-Local LLMs · llama-cpp-python · scikit-learn · LangChain · OpenAI · Groq
-
-**Automation**  
-n8n · Make.com · Playwright
-
-**Other**  
-OCR · Computer Vision basics · JSON / Markdown pipelines
-
----
-
-### GitHub Statistics
-
-<div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Farhanillahiclass&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" />
-  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=Farhanillahiclass&theme=github_dark&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" />
-</div>
-
-<div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Farhanillahiclass&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" />
-</div>
-
----
-
-### Current Directions
-
-- Local-first and offline-capable AI systems
-- Voice interfaces and agentic workflows
-- Applied machine learning and scientific computing
-- Documenting research and engineering processes publicly
-
----
-
-### Contact
-
-Open to research collaboration, AI product development, and automation systems.
-
-**YouTube** → [Farhan MRS Developer](https://www.youtube.com/@FarhanMRSDeveloper)  
-**Email** → farhanmrsofficial@gmail.com  
-**LinkedIn** → [muhammadfarhanmrs](https://linkedin.com/in/muhammadfarhanmrs)
+- **LinkedIn:** [muhammadfarhanmrs](https://www.linkedin.com/in/muhammadfarhanmrs/)
+- **Kaggle:** [muhammadfarhanmrs](https://www.kaggle.com/muhammadfarhanmrs)
+- **YouTube:** [FarhanMRSDeveloper](https://www.youtube.com/@FarhanMRSDeveloper)
+- **MRS:** [mrsplatform.live](https://www.mrsplatform.live)
+- **MRS LinkedIn:** [MRS Official](https://www.linkedin.com/company/mrs-official/)
 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Farhanillahiclass&label=Profile%20Views&color=58A6FF&style=flat-square" alt="Profile Views" />
+
+*Thanks for visiting my profile. I'm learning, building, and improving one project at a time.*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:20B8D6,50:123B5D,100:0B1220&height=90&section=footer" width="100%" alt="Decorative blue footer">
+
 </div>
