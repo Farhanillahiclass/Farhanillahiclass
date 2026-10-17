@@ -1,26 +1,25 @@
 <div align="center">
 
-<!-- Clean Professional Typing -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=28&duration=3200&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Muhammad+Farhan;AI+%26+Machine+Learning+Researcher;Junior+Researcher+at+MRS;Local-First+AI+%7C+Agents+%7C+Scientific+Computing" alt="Typing Animation" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=900&color=58A6FF&center=true&vCenter=true&width=880&lines=Muhammad+Farhan;AI+%26+Machine+Learning+Researcher;Junior+Researcher+at+MRS;Local-First+AI+%7C+Agents+%7C+Automation" alt="Typing Animation" />
 
 <br/><br/>
 
-<!-- Professional 3D Research Animation -->
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWJ0d2Z0d2Z0d2Z0d2Z0d2Z0d2Z0d2Z0d2Z0d2Z0d2Z0d2Z0d2Z0d2Z0/3o7TKSjRrfIPjeiVyM/giphy.gif" width="420" alt="3D Research Animation"/>
+<!-- Professional Research-style Animation -->
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXJ0eGZ0d2Z0d2Z0d2Z0d2Z0d2Z0d2Z0d2Z0d2Z0d2Z0d2Z0d2Z0d2Z0/l0HlNQ03J5JxX6lva/giphy.gif" width="460" alt="Research Animation"/>
 
 <br/>
 
 ### AI & Machine Learning Researcher  
 **Junior Researcher at MRS**
 
-Building local-first intelligent systems, voice AI agents, and applied machine learning solutions.
+I design and build local-first voice AI systems, intelligent agents, and applied machine learning solutions.
 
 <br/>
 
-[![YouTube](https://img.shields.io/badge/YouTube-FarhanMRSDeveloper-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@FarhanMRSDeveloper)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-muhammadfarhanmrs-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammadfarhanmrs)
-[![Email](https://img.shields.io/badge/Email-farhanmrsofficial%40gmail.com-58A6FF?style=flat-square&logo=gmail&logoColor=white)](mailto:farhanmrsofficial@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Farhanillahiclass-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Farhanillahiclass)
+[![YouTube](https://img.shields.io/badge/YouTube-FarhanMRSDeveloper-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@FarhanMRSDeveloper)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-muhammadfarhanmrs-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammadfarhanmrs)
+[![Email](https://img.shields.io/badge/Email-farhanmrsofficial%40gmail.com-58A6FF?style=for-the-badge&logo=gmail&logoColor=white)](mailto:farhanmrsofficial@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Farhanillahiclass-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Farhanillahiclass)
 
 </div>
 
@@ -30,26 +29,26 @@ Building local-first intelligent systems, voice AI agents, and applied machine l
 
 I work as a **Junior Researcher at MRS**, focusing on the practical application of artificial intelligence and machine learning.
 
-**Primary research & engineering areas:**
+**Primary areas of work:**
 - Local-first Voice AI Assistants
 - Intelligent Agents and Workflow Automation
 - Applied Machine Learning & Scientific Computing
 - Privacy-preserving AI architectures
 
-I believe in rigorous experimentation, clean implementation, and public documentation of the research process.
+I prioritize clean implementation, rigorous experimentation, and public documentation of the research and engineering process.
 
 ---
 
 ### Selected Projects
 
 #### GYRUS — Local-First AI Agent
-Desktop AI assistant featuring voice interaction, trainable intent classification, research engine, OCR, system automation, and a full command dashboard.
+Desktop AI assistant with voice interaction, trainable intent classification, research engine, OCR, system automation, and a full command dashboard.
 
 **Technologies:** Python · FastAPI · Local LLM · scikit-learn · Playwright  
 [Repository](https://github.com/Farhanillahiclass/gyrus-ai-agent) · [Demo](https://youtu.be/VoCrIiGrgeU)
 
 #### ILLI — Neural HUD Voice Assistant
-High-performance local voice AI system with a cinematic Neural HUD interface, offline speech recognition, and deep system control. Designed for zero paid API dependency.
+High-performance local voice AI with a cinematic Neural HUD interface, offline speech recognition, and deep system control. Designed for zero paid API dependency.
 
 **Technologies:** Python · Tkinter · speech_recognition · pyttsx3 · psutil  
 [Repository](https://github.com/Farhanillahiclass/illi-ai-assistant) · [Demo](https://youtu.be/vnCPb6D8FA0)
@@ -60,12 +59,13 @@ Fully automated multi-source job discovery, intelligent matching, filtering, and
 **Technologies:** n8n · Claude · Automation Workflows  
 [Demo on YouTube](https://www.youtube.com/@FarhanMRSDeveloper)
 
-#### Additional Research Work
+#### Additional Research & Automation Work
 - Phishing URL Detector (Machine Learning)
 - Bacterial Growth & Diffusion Simulator (Scientific Computing)
 - Student Performance Prediction (EDA + Feature Engineering)
 - TaskFlow CLI (Clean Software Architecture)
 - AI Sales Outreach Agent (Autonomous Workflow)
+- AutoLoom AI (Library of AI automation workflows)
 
 ---
 
