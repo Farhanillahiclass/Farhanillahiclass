@@ -1,6 +1,8 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:08111F,45:123B5D,100:22D3EE&height=200&section=header&text=Muhammad%20Farhan&fontSize=46&fontColor=FFFFFF&fontAlignY=36&animation=fadeIn&desc=AI%20%7C%20Machine%20Learning%20%7C%20Python%20Development&descAlignY=60&descSize=16" alt="Muhammad Farhan — AI, Machine Learning, and Python Development" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:08111F,45:123B5D,100:22D3EE&height=190&section=header&text=Welcome&fontSize=42&fontColor=FFFFFF&fontAlignY=35&animation=fadeIn&desc=AI%20%7C%20Machine%20Learning%20%7C%20Python%20%7C%20Automation&descAlignY=60&descSize=16" alt="Welcome to Muhammad Farhan's GitHub profile" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=2600&pause=800&color=58A6FF&center=true&vCenter=true&width=800&lines=Muhammad+Farhan;AI+%26+Machine+Learning+Student;Python+Developer+in+Progress;n8n+Workflow+%26+Automation+Learner" alt="Animated text: Muhammad Farhan, AI and Machine Learning Student, Python Developer in Progress, n8n Workflow and Automation Learner" />
 
 <a href="https://www.linkedin.com/in/muhammadfarhanmrs/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://www.kaggle.com/muhammadfarhanmrs"><img src="https://img.shields.io/badge/Kaggle-Profile-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"></a>
@@ -26,7 +28,7 @@ I'm an AI student focused on building practical software and learning through ha
 - Machine Learning and model evaluation
 - Python application development
 - AI agents and desktop assistants
-- Automation workflows
+- n8n workflow exploration and automation
 - Backend development with Django and APIs
 
 ## 🧊 3D GitHub Contribution Graph
@@ -57,9 +59,21 @@ I'm an AI student focused on building practical software and learning through ha
       <a href="https://github.com/Farhanillahiclass/phishing-url-detector">📂 Repository</a>
     </td>
     <td width="50%" valign="top">
+      <h3>🔁 n8n Workflow Collection</h3>
+      <p>A repository for exploring n8n automation workflows and integrations. Check the repository documentation and attribution for the source and usage terms of individual workflows.</p>
+      <a href="https://github.com/Farhanillahiclass/n8n-workflows">📂 Workflow repository</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
       <h3>📘 Python Core & Advanced Handbook</h3>
       <p>An open learning resource covering Python concepts, examples, and practice material.</p>
       <a href="https://github.com/Farhanillahiclass/Python-Core-and-Advanced-Handbook">📂 Repository</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>⚙️ AI Job Hunter Engine</h3>
+      <p>An automation workflow project featured on my YouTube channel.</p>
+      <a href="https://www.youtube.com/@FarhanMRSDeveloper">▶️ Explore videos</a>
     </td>
   </tr>
 </table>
@@ -73,6 +87,7 @@ I'm an AI student focused on building practical software and learning through ha
   <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" alt="Django">
   <img src="https://img.shields.io/badge/Git%20%26%20GitHub-F05032?style=flat-square&logo=git&logoColor=white" alt="Git and GitHub">
   <img src="https://img.shields.io/badge/Automation-7C3AED?style=flat-square" alt="Automation">
+  <img src="https://img.shields.io/badge/n8n-Workflow%20Automation-EA4B71?style=flat-square&logo=n8n&logoColor=white" alt="n8n workflow automation">
   <img src="https://img.shields.io/badge/Computer%20Vision-0F766E?style=flat-square" alt="Computer Vision">
 </p>
 
