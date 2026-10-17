@@ -1,11 +1,11 @@
 <div align="center">
 
-<!-- Professional Research Banner -->
-<img src="https://raw.githubusercontent.com/Farhanillahiclass/Farhanillahiclass/main/banner.png" width="100%" alt="Research Banner"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=900&color=58A6FF&center=true&vCenter=true&width=880&lines=Muhammad+Farhan;AI+%26+Machine+Learning+Researcher;Junior+Researcher+at+MRS;Local-First+AI+%7C+Agents+%7C+Automation" alt="Typing Animation" />
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=900&color=58A6FF&center=true&vCenter=true&width=880&lines=Muhammad+Farhan;AI+%26+Machine+Learning+Researcher;Junior+Researcher+at+MRS;Local-First+AI+%7C+Agents+%7C+Automation" alt="Typing Animation" />
+<!-- Professional 3D Research Animation -->
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXJ0eGZ0d2Z0d2Z0d2Z0d2Z0d2Z0d2Z0d2Z0d2Z0d2Z0d2Z0d2Z0d2Z0/l0HlNQ03J5JxX6lva/giphy.gif" width="460" alt="3D Research Animation"/>
 
 <br/>
 
