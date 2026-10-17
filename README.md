@@ -1,11 +1,11 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=900&color=58A6FF&center=true&vCenter=true&width=880&lines=Muhammad+Farhan;AI+%26+Machine+Learning+Researcher;Junior+Researcher+at+MRS;Local-First+AI+%7C+Agents+%7C+Automation" alt="Typing Animation" />
+<!-- Professional Research Banner -->
+<img src="https://raw.githubusercontent.com/Farhanillahiclass/Farhanillahiclass/main/banner.png" width="100%" alt="Research Banner"/>
 
 <br/><br/>
 
-<!-- Professional Research-style Animation -->
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXJ0eGZ0d2Z0d2Z0d2Z0d2Z0d2Z0d2Z0d2Z0d2Z0d2Z0d2Z0d2Z0d2Z0/l0HlNQ03J5JxX6lva/giphy.gif" width="460" alt="Research Animation"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=900&color=58A6FF&center=true&vCenter=true&width=880&lines=Muhammad+Farhan;AI+%26+Machine+Learning+Researcher;Junior+Researcher+at+MRS;Local-First+AI+%7C+Agents+%7C+Automation" alt="Typing Animation" />
 
 <br/>
 
@@ -35,7 +35,7 @@ I work as a **Junior Researcher at MRS**, focusing on the practical application 
 - Applied Machine Learning & Scientific Computing
 - Privacy-preserving AI architectures
 
-I prioritize clean implementation, rigorous experimentation, and public documentation of the research and engineering process.
+I prioritize clean implementation, rigorous experimentation, and public documentation of the research process.
 
 ---
 
@@ -65,7 +65,8 @@ Fully automated multi-source job discovery, intelligent matching, filtering, and
 - Student Performance Prediction (EDA + Feature Engineering)
 - TaskFlow CLI (Clean Software Architecture)
 - AI Sales Outreach Agent (Autonomous Workflow)
-- AutoLoom AI (Library of AI automation workflows)
+- Smart Vision Assistant Pro
+- AutoLoom AI (AI automation workflows library)
 
 ---
 
@@ -118,5 +119,5 @@ Open to research collaboration, AI product development, and automation systems.
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Farhanillahiclass&style=flat-square&color=58A6FF" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Farhanillahiclass&label=Profile%20Views&color=58A6FF&style=flat-square" alt="Profile Views" />
 </div>
