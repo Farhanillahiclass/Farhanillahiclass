@@ -2,7 +2,9 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,25:0B1F3A,60:123B5D,100:22D3EE&height=230&section=header&text=Muhammad%20Farhan&fontSize=48&fontColor=FFFFFF&fontAlignY=35&animation=fadeIn&desc=ARTIFICIAL%20INTELLIGENCE%20%7C%20MACHINE%20LEARNING%20%7C%20PYTHON&descAlignY=58&descSize=15" alt="Muhammad Farhan — AI, Machine Learning and Python" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=2400&pause=650&color=58A6FF&center=true&vCenter=true&width=850&lines=AI+%26+Machine+Learning+Student;Building+Practical+AI+Projects;Python+%7C+AI+Agents+%7C+Automation;Learning+by+Building+%26+Experimenting" alt="Animated profile introduction" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2400&pause=650&color=A78BFA&center=true&vCenter=true&width=900&height=55&lines=AI+%26+Machine+Learning+Student;Building+Practical+AI+%26+Automation+Projects;Python+%7C+n8n+%7C+AI+Agents;Learn.+Build.+Validate.+Improve." alt="Animated profile introduction" />
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0B1020,45:172554,75:312E81,100:0891B2&height=3&section=header" alt="" />
 
 <p>
 <a href="https://www.linkedin.com/in/muhammadfarhanmrs/"><img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
@@ -76,12 +78,13 @@ A machine-learning project that identifies potentially phishing URLs using URL-t
 </td>
 <td width="50%" valign="top">
 
-<h3>🔁 FlowForge AI</h3>
+<h3>🔁 FlowForge-AI — n8n Automation Library</h3>
 
-A modular n8n automation system with 20 business workflow templates, parent-child orchestration, architecture diagrams, validation guidance, and a visual workflow gallery.
+A 20-workflow business automation library covering lead management, customer support, scheduling, content operations, reporting, monitoring, and Telegram. Includes canonical JSON exports, per-workflow setup guides, a shared orchestration architecture, static validation, and a searchable gallery. Provider credentials and live execution must be configured and tested in your own n8n workspace.
 
-<a href="https://github.com/Farhanillahiclass/FlowForge-AI"><img src="https://img.shields.io/badge/Explore-Repository-7C3AED?style=flat&logo=github&logoColor=white" alt="FlowForge AI repository"></a>
-<a href="https://github.com/Farhanillahiclass/FlowForge-AI/blob/main/docs/WORKFLOW-GALLERY.md"><img src="https://img.shields.io/badge/View-Workflow%20Gallery-0891B2?style=flat&logo=github&logoColor=white" alt="FlowForge AI workflow gallery"></a>
+<a href="https://farhanillahiclass.github.io/FlowForge-AI/"><img src="https://img.shields.io/badge/Launch-Interactive%20Gallery-8B5CF6?style=for-the-badge&logo=n8n&logoColor=white" alt="Launch interactive FlowForge-AI gallery"></a>
+<a href="https://github.com/Farhanillahiclass/FlowForge-AI"><img src="https://img.shields.io/badge/Source-Repository-181717?style=flat&logo=github&logoColor=white" alt="FlowForge-AI source repository"></a>
+<a href="https://github.com/Farhanillahiclass/FlowForge-AI/blob/main/TESTING-AND-VALIDATION.md"><img src="https://img.shields.io/badge/Setup%20%26%20Validation-Guide-0891B2?style=flat&logo=github&logoColor=white" alt="FlowForge-AI validation guide"></a>
 
 </td>
 </tr>
@@ -123,6 +126,12 @@ An AI/workflow automation project featured on my YouTube channel.
 </div>
 
 <sub>These represent my current learning and project areas, not a claim of expert-level proficiency in every technology.</sub>
+
+<div align="center">
+
+<a href="https://github.com/Farhanillahiclass/FlowForge-AI"><img src="https://img.shields.io/badge/FEATURED%20PROJECT-FlowForge--AI%20Automation-7C3AED?style=for-the-badge&logo=n8n&logoColor=white" alt="Featured project: FlowForge-AI automation"></a>
+
+</div>
 
 ## 🐍 Contribution Activity
 
