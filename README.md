@@ -63,6 +63,8 @@ I'm Muhammad Farhan, an **AI/ML student, workflow automation builder, and backen
 
 <h3>🤖 GYRUS — AI Agent</h3>
 
+<img width="100%" src="https://raw.githubusercontent.com/Farhanillahiclass/Farhanillahiclass/main/assets/gyrus-workflow.svg" alt="Animated GYRUS flow: voice or text input, intent routing, assistant action" />
+
 A Python-based assistant exploring voice and text interaction, desktop workflows, research, and productivity tools.
 
 <a href="https://github.com/Farhanillahiclass/gyrus-ai-agent"><img src="https://img.shields.io/badge/Source%20Code-181717?style=flat&logo=github&logoColor=white" alt="GYRUS source code"></a>
@@ -72,6 +74,8 @@ A Python-based assistant exploring voice and text interaction, desktop workflows
 <td width="50%" valign="top">
 
 <h3>🖥️ ILLI — AI Assistant</h3>
+
+<img width="100%" src="https://raw.githubusercontent.com/Farhanillahiclass/Farhanillahiclass/main/assets/illi-workflow.svg" alt="Animated ILLI flow: user command, voice or GUI, system utility" />
 
 A Windows-focused Python assistant with a futuristic desktop interface, voice interaction, and system utility workflows.
 
@@ -85,6 +89,8 @@ A Windows-focused Python assistant with a futuristic desktop interface, voice in
 
 <h3>🛡️ Phishing URL Detector</h3>
 
+<img width="100%" src="https://raw.githubusercontent.com/Farhanillahiclass/Farhanillahiclass/main/assets/phishing-url-workflow.svg" alt="Animated phishing URL classification: raw URL, URL features, KNN prediction" />
+
 A machine-learning project that identifies potentially phishing URLs using URL-text features. Its repository documents evaluation, testing, and a Streamlit interface.
 
 <a href="https://github.com/Farhanillahiclass/phishing-url-detector"><img src="https://img.shields.io/badge/Explore-Repository-2563EB?style=flat&logo=github&logoColor=white" alt="Phishing URL Detector repository"></a>
@@ -93,6 +99,8 @@ A machine-learning project that identifies potentially phishing URLs using URL-t
 <td width="50%" valign="top">
 
 <h3>🔁 FlowForge-AI — n8n Automation Library</h3>
+
+<img width="100%" src="https://raw.githubusercontent.com/Farhanillahiclass/Farhanillahiclass/main/assets/flowforge-workflow.svg" alt="Animated FlowForge n8n flow: main ingress, request processor, child workflow" />
 
 A 20-workflow business automation library covering lead management, customer support, scheduling, content operations, reporting, monitoring, and Telegram. Includes canonical JSON exports, per-workflow setup guides, a shared orchestration architecture, static validation, and a searchable gallery. Provider credentials and live execution must be configured and tested in your own n8n workspace.
 
@@ -107,6 +115,8 @@ A 20-workflow business automation library covering lead management, customer sup
 
 <h3>🌌 Galaxy, Star & Quasar Classification</h3>
 
+<img width="100%" src="https://raw.githubusercontent.com/Farhanillahiclass/Farhanillahiclass/main/assets/galaxy-classifier-workflow.svg" alt="Animated astronomy ML pipeline: SDSS DR16 data, feature engineering, Random Forest" />
+
 An applied ML project using SDSS DR16 data. My CV reports **99.19% accuracy** with a Random Forest classifier and identifies redshift as the most predictive feature.
 
 <a href="https://github.com/Farhanillahiclass"><img src="https://img.shields.io/badge/Explore-GitHub%20Projects-181717?style=flat&logo=github&logoColor=white" alt="Explore GitHub projects"></a>
@@ -115,6 +125,8 @@ An applied ML project using SDSS DR16 data. My CV reports **99.19% accuracy** wi
 <td width="50%" valign="top">
 
 <h3>📦 illi-ai-professional</h3>
+
+<img width="100%" src="https://raw.githubusercontent.com/Farhanillahiclass/Farhanillahiclass/main/assets/illi-package-workflow.svg" alt="Animated Python package flow: install package, Tkinter or speech interface, local automation" />
 
 A published Python package for a local-first AI assistant concept, including a Tkinter GUI, offline speech recognition, and system-automation features.
 
