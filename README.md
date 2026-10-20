@@ -49,6 +49,14 @@ I'm Muhammad Farhan, an **AI/ML student, workflow automation builder, and backen
 
 ## 🚀 Featured Projects
 
+<div align="center">
+
+<img width="100%" src="https://raw.githubusercontent.com/Farhanillahiclass/Farhanillahiclass/main/assets/featured-projects-animation.svg" alt="Animated visualization of GYRUS, ILLI, Phishing URL Detector, FlowForge-AI, galaxy classification and illi-ai-professional project workflows" />
+
+<sub>Animated conceptual map of project inputs, processing stages and outputs. It illustrates project ideas and is not a live runtime monitor.</sub>
+
+</div>
+
 <table>
 <tr>
 <td width="50%" valign="top">
