@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,25:0B1F3A,60:123B5D,100:22D3EE&height=230&section=header&text=Muhammad%20Farhan&fontSize=48&fontColor=FFFFFF&fontAlignY=35&animation=fadeIn&desc=ARTIFICIAL%20INTELLIGENCE%20%7C%20MACHINE%20LEARNING%20%7C%20PYTHON&descAlignY=58&descSize=15" alt="Muhammad Farhan — AI, Machine Learning and Python" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,25:0B1F3A,60:123B5D,100:22D3EE&height=230&section=header&text=Muhammad%20Farhan&fontSize=48&fontColor=FFFFFF&fontAlignY=35&animation=fadeIn&desc=AI%2FML%20STUDENT%20%7C%20N8N%20AUTOMATION%20%7C%20BACKEND%20DEVELOPMENT&descAlignY=58&descSize=15" alt="Muhammad Farhan — AI, Machine Learning and Python" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2400&pause=650&color=A78BFA&center=true&vCenter=true&width=900&height=55&lines=AI+%26+Machine+Learning+Student;Building+Practical+AI+%26+Automation+Projects;Python+%7C+n8n+%7C+AI+Agents;Learn.+Build.+Validate.+Improve." alt="Animated profile introduction" />
 
@@ -21,25 +21,29 @@
 
 ## 👋 About Me
 
-I'm an AI student focused on building practical software and learning through hands-on projects. My interests include machine learning, AI assistants, automation, computer vision, and backend development.
+I'm Muhammad Farhan, an **AI/ML student, workflow automation builder, and backend web developer** based in Pakistan. I learn by building practical systems across AI, automation, and web development, with a strong interest in applying analytical and statistical thinking to real problems.
 
-- 🧠 Exploring machine learning and AI-powered applications.
-- 🐍 Building with Python and strengthening software engineering fundamentals.
-- 🤖 Exploring AI agents, desktop assistants, and workflow automation.
-- 🛠️ Learning backend development and practical Git/GitHub workflows.
-- 📚 Improving projects through testing, documentation, and iteration.
+- 🤖 Build modular **n8n and LLM-powered automations**, API integrations, and AI-agent workflows.
+- 🐍 Develop backend applications with **Python, Django, REST APIs, PostgreSQL, and SQLite**.
+- 🧪 Explore applied machine learning, model evaluation, and data-driven research.
+- 🔬 Contribute to technical projects and research work as a **Junior Researcher at MRS**.
+- 📦 Published a Python package, **illi-ai-professional**, for a local-first AI assistant project.
 
-> *Learn the fundamentals. Build useful things. Test carefully. Improve continuously.*
+**Current goal:** grow into an AI and automation engineer by shipping useful, well-documented projects and validating them with repeatable tests.
+
+> *Analyze carefully. Build practically. Validate honestly. Improve continuously.*
 
 ## 🎯 Current Focus
 
 <div align="center">
 
-| 🤖 AI & Machine Learning | 🐍 Python Development | ⚙️ Automation |
+| ⚙️ Workflow Automation | 🧠 Applied Machine Learning | 🐍 Backend Engineering |
 |:---:|:---:|:---:|
-| Model evaluation and applied ML | Practical applications and APIs | AI agents and workflow tools |
+| n8n, LLM orchestration, APIs, Telegram | Data preparation, model evaluation, classification | Python, Django, REST APIs, SQL |
 
 </div>
+
+<sub>Experience and proficiency vary by technology; projects and learning are ongoing.</sub>
 
 ## 🚀 Featured Projects
 
@@ -91,20 +95,20 @@ A 20-workflow business automation library covering lead management, customer sup
 <tr>
 <td width="50%" valign="top">
 
-<h3>📘 Python Core & Advanced Handbook</h3>
+<h3>🌌 Galaxy, Star & Quasar Classification</h3>
 
-An open learning resource for Python concepts, examples, and practice.
+An applied ML project using SDSS DR16 data. My CV reports **99.19% accuracy** with a Random Forest classifier and identifies redshift as the most predictive feature.
 
-<a href="https://github.com/Farhanillahiclass/Python-Core-and-Advanced-Handbook"><img src="https://img.shields.io/badge/Read-Handbook-0F766E?style=flat&logo=github&logoColor=white" alt="Python handbook repository"></a>
+<a href="https://github.com/Farhanillahiclass"><img src="https://img.shields.io/badge/Explore-GitHub%20Projects-181717?style=flat&logo=github&logoColor=white" alt="Explore GitHub projects"></a>
 
 </td>
 <td width="50%" valign="top">
 
-<h3>⚙️ AI Job Hunter Engine</h3>
+<h3>📦 illi-ai-professional</h3>
 
-An AI/workflow automation project featured on my YouTube channel.
+A published Python package for a local-first AI assistant concept, including a Tkinter GUI, offline speech recognition, and system-automation features.
 
-<a href="https://www.youtube.com/@FarhanMRSDeveloper"><img src="https://img.shields.io/badge/Explore-Video%20Demos-DC2626?style=flat&logo=youtube&logoColor=white" alt="AI Job Hunter videos"></a>
+<a href="https://pypi.org/project/illi-ai-professional/"><img src="https://img.shields.io/badge/View-PyPI%20Package-3775A9?style=flat&logo=pypi&logoColor=white" alt="illi-ai-professional on PyPI"></a>
 
 </td>
 </tr>
@@ -166,11 +170,35 @@ An AI/workflow automation project featured on my YouTube channel.
 
 </div>
 
-## 🎓 Learning & Experience
+## 💼 Experience Snapshot
 
-- **Machine Learning:** completed a learning-focused internship programme with LearnDepth Academy.
-- **Python and problem-solving:** strengthening programming fundamentals through practice and projects.
-- **Backend development:** learning Django and practical software development workflows.
+- **Junior Researcher — MRS** · May 2026–Present: contribute to research and platform engineering; developed the LMS and supported hosting the company web platform.
+- **Machine Learning Intern — LearnDepth Academy LLP** · Aug–Sep 2026: six-week mentor-led programme covering data preparation, supervised/unsupervised learning, model development, and evaluation.
+- **Artificial Intelligence Intern — DecodeLabs** · Jul–Aug 2026: worked on end-to-end ML pipelines and statistical model optimization.
+- **Backend Developer — MRS** · Jun 2025–Apr 2026: backend and web application work with Python/Django, REST APIs, PostgreSQL, and SQLite.
+
+<sub>Experience summaries are based on my CV; project status and implementation details are documented in the linked repositories where available.</sub>
+
+## 🧠 Skills
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
+<img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" alt="Django">
+<img src="https://img.shields.io/badge/REST%20APIs-0F766E?style=flat-square" alt="REST APIs">
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL">
+<img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" alt="n8n">
+<img src="https://img.shields.io/badge/LLM%20Agents-7C3AED?style=flat-square" alt="LLM agents">
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="scikit-learn">
+<img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions">
+
+</div>
+
+<sub>Machine learning and some tools are developing skills; this section reflects the CV and ongoing project work, not expert-level proficiency in every area.</sub>
+
+## 🎓 Certifications & Learning
+
+Generative AI Literacy (Simplilearn) · n8n: No Code AI Agent Builder (Simplilearn) · Build Your Own AI Agents on AWS (Skill Nebula) · Agents and Workflows (OpenAI) · AI Foundations (OpenAI) · Claude Code 101 · Claude 101 · Vista Equity Partners AI in Action Job Simulation
 
 ## 🤝 Connect
 
