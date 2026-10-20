@@ -4,6 +4,8 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2400&pause=650&color=A78BFA&center=true&vCenter=true&width=900&height=55&lines=AI+%26+Machine+Learning+Student;Building+Practical+AI+%26+Automation+Projects;Python+%7C+n8n+%7C+AI+Agents;Learn.+Build.+Validate.+Improve." alt="Animated profile introduction" />
 
+<img width="100%" src="https://raw.githubusercontent.com/Farhanillahiclass/Farhanillahiclass/main/assets/profile-ai-animation.svg" alt="Animated AI, n8n automation, Python backend and machine learning visualization" />
+
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0B1020,45:172554,75:312E81,100:0891B2&height=3&section=header" alt="" />
 
 <p>
