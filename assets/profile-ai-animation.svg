@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+<title id="title">Muhammad Farhan — AI, automation and backend engineering</title>
+<desc id="desc">Animated technical visualization with a central AI core connected to workflow automation, machine learning, Python and API nodes.</desc>
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#07111f"/><stop offset=".55" stop-color="#101638"/><stop offset="1" stop-color="#082a3a"/></linearGradient>
+  <linearGradient id="core" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#a78bfa"/><stop offset="1" stop-color="#22d3ee"/></linearGradient>
+  <radialGradient id="glow"><stop stop-color="#8b5cf6" stop-opacity=".3"/><stop offset="1" stop-color="#8b5cf6" stop-opacity="0"/></radialGradient>
+  <filter id="blur"><feGaussianBlur stdDeviation="18"/></filter>
+</defs>
+<style>
+  .label{font:600 13px 'Segoe UI',Arial,sans-serif;fill:#e5edff;letter-spacing:1.4px}
+  .small{font:11px 'Segoe UI',Arial,sans-serif;fill:#8ea6c9;letter-spacing:1.1px}
+  .line{fill:none;stroke:#536a9e;stroke-width:1.2;stroke-dasharray:5 7;opacity:.8}
+  .pulse{fill:none;stroke:#22d3ee;stroke-width:2;stroke-linecap:round;stroke-dasharray:3 24;animation:flow 4s linear infinite}
+  .orbit{transform-origin:600px 180px;animation:orbit 24s linear infinite}
+  .orbit2{transform-origin:600px 180px;animation:orbit 32s linear infinite reverse}
+  .float{animation:float 4s ease-in-out infinite}
+  .float2{animation:float 5s ease-in-out infinite;animation-delay:-2s}
+  .corepulse{transform-origin:600px 180px;animation:pulse 3s ease-in-out infinite}
+  @keyframes flow{to{stroke-dashoffset:-108}}
+  @keyframes orbit{to{transform:rotate(360deg)}}
+  @keyframes float{0%,100%{transform:translateY(0)}50%{transform:translateY(-7px)}}
+  @keyframes pulse{0%,100%{opacity:.7;transform:scale(.97)}50%{opacity:1;transform:scale(1.04)}}
+  @media(prefers-reduced-motion:reduce){.orbit,.orbit2,.float,.float2,.corepulse,.pulse{animation:none}}
+</style>
+<rect width="1200" height="360" rx="24" fill="url(#bg)"/>
+<circle cx="600" cy="180" r="190" fill="url(#glow)" filter="url(#blur)"/>
+<g opacity=".22" stroke="#55709e" stroke-width=".7">
+<path d="M0 60H1200M0 120H1200M0 180H1200M0 240H1200M0 300H1200M100 0V360M200 0V360M300 0V360M400 0V360M500 0V360M600 0V360M700 0V360M800 0V360M900 0V360M1000 0V360M1100 0V360"/>
+</g>
+<g transform="translate(64 62)">
+  <text x="0" y="0" fill="#67e8f9" font-family="Segoe UI,Arial,sans-serif" font-size="11" letter-spacing="3">BUILDING PRACTICAL INTELLIGENCE</text>
+  <text x="0" y="47" fill="#f3f6ff" font-family="Segoe UI,Arial,sans-serif" font-weight="700" font-size="29">AI • AUTOMATION • ENGINEERING</text>
+  <text x="0" y="76" fill="#a9b8d7" font-family="Segoe UI,Arial,sans-serif" font-size="14">Python · n8n workflows · machine learning · backend systems</text>
+  <rect x="0" y="101" width="5" height="42" rx="2.5" fill="#a78bfa"/>
+  <text x="17" y="117" fill="#dce7ff" font-family="Segoe UI,Arial,sans-serif" font-size="13">Learn. Build. Validate.</text>
+  <text x="17" y="137" fill="#dce7ff" font-family="Segoe UI,Arial,sans-serif" font-size="13">Ship useful systems.</text>
+</g>
+<g>
+  <ellipse cx="900" cy="180" rx="205" ry="103" class="line"/>
+  <ellipse cx="900" cy="180" rx="150" ry="68" class="line" transform="rotate(-32 900 180)"/>
+  <ellipse cx="900" cy="180" rx="150" ry="68" class="line" transform="rotate(32 900 180)"/>
+  <g class="orbit"><circle cx="900" cy="77" r="4" fill="#22d3ee"/><circle cx="1105" cy="180" r="4" fill="#a78bfa"/><circle cx="900" cy="283" r="4" fill="#34d399"/></g>
+  <g class="orbit2"><circle cx="750" cy="180" r="3.5" fill="#fbbf24"/><circle cx="1035" cy="118" r="3.5" fill="#fb7185"/><circle cx="1035" cy="242" r="3.5" fill="#22d3ee"/></g>
+  <path d="M900 180L785 112M900 180L1016 112M900 180L785 248M900 180L1016 248" class="line"/>
+  <path d="M900 180L785 112M900 180L1016 112M900 180L785 248M900 180L1016 248" class="pulse"/>
+  <g class="corepulse"><circle cx="900" cy="180" r="52" fill="#101b3a" stroke="url(#core)" stroke-width="2"/><circle cx="900" cy="180" r="40" fill="none" stroke="#8b5cf6" stroke-opacity=".65"/><circle cx="900" cy="180" r="28" fill="url(#core)" fill-opacity=".15"/><path d="M886 180h28M900 166v28M890 170l20 20M910 170l-20 20" stroke="#c4b5fd" stroke-width="2" stroke-linecap="round"/><circle cx="900" cy="180" r="5" fill="#e0f2fe"/></g>
+  <g class="float"><rect x="714" y="89" width="142" height="45" rx="11" fill="#101b30" stroke="#3e537b"/><circle cx="735" cy="111" r="8" fill="#8b5cf6" fill-opacity=".25"/><text x="750" y="108" class="label" font-size="11">n8n FLOW</text><text x="750" y="122" class="small">AUTOMATION</text></g>
+  <g class="float2"><rect x="945" y="89" width="142" height="45" rx="11" fill="#101b30" stroke="#3e537b"/><circle cx="966" cy="111" r="8" fill="#22d3ee" fill-opacity=".25"/><text x="981" y="108" class="label" font-size="11">AI / LLM</text><text x="981" y="122" class="small">ORCHESTRATION</text></g>
+  <g class="float2"><rect x="714" y="226" width="142" height="45" rx="11" fill="#101b30" stroke="#3e537b"/><circle cx="735" cy="248" r="8" fill="#34d399" fill-opacity=".25"/><text x="750" y="245" class="label" font-size="11">PYTHON</text><text x="750" y="259" class="small">BACKEND SYSTEMS</text></g>
+  <g class="float"><rect x="945" y="226" width="142" height="45" rx="11" fill="#101b30" stroke="#3e537b"/><circle cx="966" cy="248" r="8" fill="#fbbf24" fill-opacity=".25"/><text x="981" y="245" class="label" font-size="11">ML MODELS</text><text x="981" y="259" class="small">DATA-DRIVEN</text></g>
+</g>
+<text x="64" y="322" fill="#587092" font-family="Segoe UI,Arial,sans-serif" font-size="10" letter-spacing="2">MUHAMMAD FARHAN  /  PROJECTS OVER PROMISES</text>
+<text x="1136" y="322" text-anchor="end" fill="#67e8f9" font-family="Segoe UI,Arial,sans-serif" font-size="10" letter-spacing="2">SYSTEMS IN MOTION ↗</text>
+<rect x=".5" y=".5" width="1199" height="359" rx="23.5" fill="none" stroke="#35456c"/>
+</svg>
