@@ -98,15 +98,20 @@ A machine-learning project that identifies potentially phishing URLs using URL-t
 </td>
 <td width="50%" valign="top">
 
-<h3>🔁 FlowForge-AI — n8n Automation Library</h3>
+<h3>🔁 FlowForge-AI — Modular n8n Automation System</h3>
 
-<img width="100%" src="https://raw.githubusercontent.com/Farhanillahiclass/Farhanillahiclass/main/assets/flowforge-workflow.svg" alt="Animated FlowForge n8n flow: main ingress, request processor, child workflow" />
+<img width="100%" src="https://raw.githubusercontent.com/Farhanillahiclass/Farhanillahiclass/main/assets/flowforge-workflow.svg" alt="Animated FlowForge-AI architecture: authenticated ingress, request validation, event routing, reusable n8n workflows and error handling" />
 
-A 20-workflow business automation library covering lead management, customer support, scheduling, content operations, reporting, monitoring, and Telegram. Includes canonical JSON exports, per-workflow setup guides, a shared orchestration architecture, static validation, and a searchable gallery. Provider credentials and live execution must be configured and tested in your own n8n workspace.
+A modular automation library with **20 canonical n8n business workflows** across CRM, customer support, scheduling, finance operations, content publishing, analytics, monitoring and Telegram. Includes a parent-child orchestration layer, importable JSON exports, workflow-specific setup guides, a searchable gallery, and static validation.
 
-<a href="https://farhanillahiclass.github.io/FlowForge-AI/"><img src="https://img.shields.io/badge/Launch-Interactive%20Gallery-8B5CF6?style=for-the-badge&logo=n8n&logoColor=white" alt="Launch interactive FlowForge-AI gallery"></a>
-<a href="https://github.com/Farhanillahiclass/FlowForge-AI"><img src="https://img.shields.io/badge/Source-Repository-181717?style=flat&logo=github&logoColor=white" alt="FlowForge-AI source repository"></a>
-<a href="https://github.com/Farhanillahiclass/FlowForge-AI/blob/main/TESTING-AND-VALIDATION.md"><img src="https://img.shields.io/badge/Setup%20%26%20Validation-Guide-0891B2?style=flat&logo=github&logoColor=white" alt="FlowForge-AI validation guide"></a>
+<p>
+<a href="https://farhanillahiclass.github.io/FlowForge-AI/"><img src="https://img.shields.io/badge/Explore-Interactive%20Gallery-7C3AED?style=for-the-badge&logo=n8n&logoColor=white" alt="Explore FlowForge-AI interactive workflow gallery"></a>
+<a href="https://github.com/Farhanillahiclass/FlowForge-AI"><img src="https://img.shields.io/badge/20%20Workflows-Source%20Code-181717?style=flat&logo=github&logoColor=white" alt="FlowForge-AI repository with 20 workflow exports"></a>
+<a href="https://github.com/Farhanillahiclass/FlowForge-AI/blob/main/system/N8N-CLOUD-2X-DEPLOYMENT.md"><img src="https://img.shields.io/badge/n8n%20Cloud-Setup%20Guide-0891B2?style=flat&logo=n8n&logoColor=white" alt="FlowForge-AI n8n Cloud setup guide"></a>
+<a href="https://github.com/Farhanillahiclass/FlowForge-AI/blob/main/TESTING-AND-VALIDATION.md"><img src="https://img.shields.io/badge/Validation-Report-16A34A?style=flat&logo=github&logoColor=white" alt="FlowForge-AI testing and validation report"></a>
+</p>
+
+<sub>Note: workflow exports and static checks are provided; configure credentials and verify live execution in your own n8n workspace before production use.</sub>
 
 </td>
 </tr>
