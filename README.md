@@ -78,9 +78,10 @@ A machine-learning project that identifies potentially phishing URLs using URL-t
 
 <h3>🔁 FlowForge AI</h3>
 
-A workflow-automation project exploring integrations and automation patterns.
+A modular n8n automation system with 20 business workflow templates, parent-child orchestration, architecture diagrams, validation guidance, and a visual workflow gallery.
 
 <a href="https://github.com/Farhanillahiclass/FlowForge-AI"><img src="https://img.shields.io/badge/Explore-Repository-7C3AED?style=flat&logo=github&logoColor=white" alt="FlowForge AI repository"></a>
+<a href="https://github.com/Farhanillahiclass/FlowForge-AI/blob/main/docs/WORKFLOW-GALLERY.md"><img src="https://img.shields.io/badge/View-Workflow%20Gallery-0891B2?style=flat&logo=github&logoColor=white" alt="FlowForge AI workflow gallery"></a>
 
 </td>
 </tr>
