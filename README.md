@@ -234,7 +234,7 @@ Generative AI Literacy (Simplilearn) · n8n: No Code AI Agent Builder (Simplilea
 <a href="https://www.linkedin.com/in/muhammadfarhanmrs/"><img src="https://img.shields.io/badge/LinkedIn-Muhammad%20Farhan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile"></a>
 <a href="https://www.kaggle.com/muhammadfarhanmrs"><img src="https://img.shields.io/badge/Kaggle-muhammadfarhanmrs-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle profile"></a>
 <a href="https://www.youtube.com/@FarhanMRSDeveloper"><img src="https://img.shields.io/badge/YouTube-FarhanMRSDeveloper-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube channel"></a>
-<a href="https://www.mrsplatform.live"><img src="https://img.shields.io/badge/MRS-Platform-111827?style=for-the-badge&logo=googlechrome&logoColor=white" alt="MRS Platform"></a>
+<a href="https://mrsplatform.tech"><img src="https://img.shields.io/badge/MRS-Platform-111827?style=for-the-badge&logo=googlechrome&logoColor=white" alt="MRS Platform"></a>
 
 </div>
 
