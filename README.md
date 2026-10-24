@@ -13,6 +13,7 @@
 <a href="https://www.kaggle.com/muhammadfarhanmrs"><img src="https://img.shields.io/badge/Kaggle-Explore%20Projects-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"></a>
 <a href="https://www.youtube.com/@FarhanMRSDeveloper"><img src="https://img.shields.io/badge/YouTube-Watch%20Demos-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"></a>
 <a href="https://github.com/Farhanillahiclass"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+<a href="https://mrsplatform.tech/"><img src="https://img.shields.io/badge/MRS%20Platform-Official%20Website-0F766E?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Official MRS Platform website"></a>
 </p>
 
 <img src="https://komarev.com/ghpvc/?username=Farhanillahiclass&style=flat-square&color=0891b2&label=PROFILE+VIEWS" alt="Profile views" />
@@ -23,15 +24,17 @@
 
 ## 👋 About Me
 
-I'm Muhammad Farhan, an **AI/ML student, workflow automation builder, and backend web developer** based in Pakistan. I learn by building practical systems across AI, automation, and web development, with a strong interest in applying analytical and statistical thinking to real problems.
+I'm Muhammad Farhan, an **AI/ML student focused on practical AI, workflow automation, and backend engineering**, based in Pakistan. I build and document projects that connect Python, n8n, APIs, and applied machine learning. My approach is hands-on: understand the problem, build a useful solution, validate it, and communicate its limits clearly.
 
 - 🤖 Build modular **n8n and LLM-powered automations**, API integrations, and AI-agent workflows.
 - 🐍 Develop backend applications with **Python, Django, REST APIs, PostgreSQL, and SQLite**.
 - 🧪 Explore applied machine learning, model evaluation, and data-driven research.
-- 🔬 Contribute to technical projects and research work as a **Junior Researcher at MRS**.
+- 🔬 Contribute to technical projects and research work as a **Junior Researcher at MRS** — [visit the official MRS Platform website](https://mrsplatform.tech/).
 - 📦 Published a Python package, **illi-ai-professional**, for a local-first AI assistant project.
 
-**Current goal:** grow into an AI and automation engineer by shipping useful, well-documented projects and validating them with repeatable tests.
+**Current focus:** building a stronger portfolio of well-documented AI and automation projects, improving software quality, and validating work with repeatable tests.
+
+**Featured automation project:** [FlowForge-AI interactive n8n workflow gallery](https://farhanillahiclass.github.io/FlowForge-AI/) · [Source code](https://github.com/Farhanillahiclass/FlowForge-AI).
 
 > *Analyze carefully. Build practically. Validate honestly. Improve continuously.*
 
